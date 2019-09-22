@@ -8,5 +8,5 @@ Aplikasi Pendukung :
 ---------------------------------------------------
                   Screenshoot :
 ---------------------------------------------------
-![Screenshoot](dashboar.jpg)
-
+![Screenshoot](dashboar.png)
+![Screenshoot](dashboar1.png)
