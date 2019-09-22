@@ -1,0 +1,301 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LPK Cipta Tungga Indonesia
+</name>
+</assembly>
+<members>
+<member name="T:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.About_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.About_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Add_List_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Add_User_Group_Man_Woman_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Add_User_Group_Man_Woman_100px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Add_User_Group_Man_Woman_25px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Add_User_Group_Man_Woman_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Bug_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Cash_in_Hand_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Cover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Delete_Database_25px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Delete_Database_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Delete_Database_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Door_Opened_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Door_Opened_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Exit_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Exit_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Eye_25px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Find_User_Male_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Find_User_Male_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.flat_web_design_sri_lanka_768x402">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Money_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Money_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Mouse_Pointer_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Name_Tag_96px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.News_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.News_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Numbered_List_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Numbered_List_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Password_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Payment_History_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Plus_Math_25px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Plus_Math_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Print_25px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Purchase_Order_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Registration_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Registration_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Registration_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Registration_50px2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Report_Card_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Report_Card_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Report_Card_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Schedule_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Sync_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Top_Menu_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Training_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Update_25px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Update_25px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Update_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Update_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.User_Groups_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.User_Shield_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Withdrawal_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Withdrawal_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LPK_Cipta_Tungga_Indonesia.My.Resources.Resources.Withdrawal_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,56 @@
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\LPK Cipta Tungga Indonesia.exe.config
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK Cipta Tungga Indonesia.vbprojResolveAssemblyReference.cache
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmMain.resources
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.Resources.resources
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK Cipta Tungga Indonesia.vbproj.GenerateResource.Cache
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK Cipta Tungga Indonesia.xml
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\LPK Cipta Tungga Indonesia.exe
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\LPK Cipta Tungga Indonesia.pdb
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\LPK Cipta Tungga Indonesia.xml
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK Cipta Tungga Indonesia.exe
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK Cipta Tungga Indonesia.pdb
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmDataPeserta.resources
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmLaporan.resources
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmPendaftaran.resources
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmTransaksi.resources
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmLogin.resources
+D:\College\Visual Programming\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmJurusan.resources
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\LPK Cipta Tungga Indonesia.exe.config
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK Cipta Tungga Indonesia.exe
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK Cipta Tungga Indonesia.xml
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK Cipta Tungga Indonesia.pdb
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\LPK Cipta Tungga Indonesia.exe
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\LPK Cipta Tungga Indonesia.pdb
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\LPK Cipta Tungga Indonesia.xml
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK Cipta Tungga Indonesia.vbprojResolveAssemblyReference.cache
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmDataPeserta.resources
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmJurusan.resources
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmLaporan.resources
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmLogin.resources
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmMain.resources
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmPendaftaran.resources
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmTransaksi.resources
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.Resources.resources
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK Cipta Tungga Indonesia.vbproj.GenerateResource.Cache
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmDataTutor.resources
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmJadwal.resources
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.Shared.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\FlashControlV71.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\ShockwaveFlashObjects.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\bin\Debug\stdole.dll
+D:\Project\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\LPK Cipta Tungga Indonesia\obj\Debug\LPK_Cipta_Tungga_Indonesia.frmCetakLaporan.resources
